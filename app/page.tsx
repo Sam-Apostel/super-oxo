@@ -19,7 +19,7 @@ export default function Home() {
     return (
         <main
 	        className="
-                grid grid-rows-[auto,1fr] min-h-screen place-items-center p-24
+                grid grid-rows-[auto,1fr] min-h-screen place-items-center p-6
                 data-[winner=green]:bg-emerald-500
                 data-[winner=purple]:bg-purple-500
             "

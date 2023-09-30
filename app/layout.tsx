@@ -6,7 +6,7 @@ import { PropsWithChildren } from 'react';
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-	title: 'Super OxO',
+	title: 'Super 0x0',
 	description: 'A higher dimensional oxo game',
 }
 
